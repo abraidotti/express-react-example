@@ -1,0 +1,24 @@
+{
+  "name": "express-react-example",
+  "version": "1.0.0",
+  "description": "create-react-app with an express backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraidotti/express-react-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abraidotti/express-react-example/issues"
+  },
+  "homepage": "https://github.com/abraidotti/express-react-example#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
